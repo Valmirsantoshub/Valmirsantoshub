@@ -6,7 +6,8 @@
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ### Estatísticas.
 
-![Valmir GitHub stats](https://github-readme-stats.vercel.app/api?username=Valmirsantos&show_icons=true&theme=radical)
+![Valmir GitHub stats](https://github-readme-stats.vercel.app/api?username=Valmirsantoshub&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmirsantoshub&hide_progress=true)
 
 
 ### Tecnologias que eu uso.
