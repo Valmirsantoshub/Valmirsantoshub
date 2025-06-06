@@ -17,6 +17,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br>
 
+---
 Eu me chamo Valmir Santos, sou natural de São Luiz do-MA. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade anhanguera. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub.<br>
 
 [Email](https://outlook.live.com/mail/0/)
