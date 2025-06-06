@@ -7,6 +7,8 @@
 
 ![Valmir GitHub stats](https://github-readme-stats.vercel.app/api?username=Valmirsantos&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmirsantos&hide_progress=true)
+
 ##Tecnologias que eu uso.
 
 <div style="display: inline_block"><br/>
