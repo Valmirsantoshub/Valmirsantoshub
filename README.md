@@ -22,4 +22,3 @@
 ---
 Eu me chamo Valmir Santos, sou natural de São Luiz do-MA. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade anhanguera. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub.<br>
 
-[Email](https://outlook.live.com/mail/0/)
