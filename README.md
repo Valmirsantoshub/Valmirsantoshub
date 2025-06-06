@@ -1,4 +1,4 @@
-### Olá eu sou o Valmir Santos.👋
+## Olá eu sou o Valmir Santos.👋
 
 
 ![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
@@ -8,7 +8,7 @@
 ![Valmir GitHub stats](https://github-readme-stats.vercel.app/api?username=Valmirsantos&show_icons=true&theme=radical)
 
 
-## Tecnologias que eu uso.
+### Tecnologias que eu uso.
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
