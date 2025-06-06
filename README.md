@@ -1,5 +1,5 @@
-## Olá eu sou o Valmir Santos.👋
-
+## Olá! eu sou  Valmir Santos.👋
+#### Desenvolvedor Front-end
 
 ![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![You Tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
